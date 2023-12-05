@@ -1,0 +1,25 @@
+@media (max-width: 768px) {
+    .about-img-sec {
+        height: 400px;
+    }
+    .about-contact {
+        width: 90%;
+    }
+    .gallery-item-container {
+        height: 78px;
+        overflow-x: scroll;
+    }
+    .gallery-item {
+        height: 70px;
+    }
+    .service-img {
+        width: 80%;
+    }
+    .contact-social-section,
+    .contact-form-section {
+        width: 90%;
+    }
+    .admin-content-container {
+        height: calc(100% - 120px);
+    }
+}
